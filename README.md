@@ -1,2 +1,2 @@
 # TejeshKandikunta
-Undergrounf Fault Detection
+Underground Fault Detection
